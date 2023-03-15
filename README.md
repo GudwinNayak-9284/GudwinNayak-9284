@@ -1,4 +1,6 @@
-![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C5616AQFMeb2f0YfXVw/profile-displaybackgroundimage-shrink_200_800/0/1660453502202?e=2147483647&v=beta&t=SX731PsmQxws8v6UtjQFhyK8PgtZBVxgkBjhH6Guec8" />
+</p>
 <h1 align="center">Hi 👋, I'm Gudwin Nayak</h1>
 <h3 align="center">Frontend Developer || Full Stack Developer || Android Developer</h3>
 <img align="right" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="coding"/>
